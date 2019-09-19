@@ -11,17 +11,19 @@ The Genesis DAO is a participatory funding vehicle for the DAOstack ecosystem. S
 dOrg is a coalition of web3 freelancers and dev shops. We serve the DAOstack ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
 
 # How to Use this Repo
-This repo facilitates collaboration via issue tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Anyone can suggest an idea by creating a new issue.
+This repo facilitates collaboration via issue and proposal tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Anyone can suggest an idea by creating a new issue.
 
-- [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues): Find projects to work on or suggest projects for others.
+- [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues): Find projects to work on or suggest projects for others. 
 - [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/tree/master/proposals): See passed proposals or add your own.
 - [**Roadmap**](https://github.com/dOrgTech/DAOstack-collab/wiki): Learn about the broader direction the stack.
 
-## Submitting a Proposal
+## Adding a Proposal
 
 All funding proposals must be submitted to the Genesis DAO for consideration. This repo is only intended to add convenience and reduce information asymmetries for builders in the DAOstack ecosystem.
 
-We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in the proposal that you create on [Alchemy](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830).
+We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in the proposal that you create on [Alchemy](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830). See [template](https://github.com/dOrgTech/DAOstack-collab/blob/master/proposals/_template.md) here.
+
+If Genesis DAO passes the proposal, then the PR will be merged. Over time, you can also add updates and links to delivery materials in the same document. This makes it easy to report back to the community on your progress.
 
 # Looking for more?
 
