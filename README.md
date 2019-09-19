@@ -23,7 +23,7 @@ All funding proposals must be submitted to the [Genesis DAO](https://alchemy.dao
 
 We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in the proposal that you create on Alchemy.
 
-# Looking for further information?
+# Looking for more?
 
 * [DAOstack Website](https://daostack.io)
 * [DAOstack Forum](https://daotalk.org)
