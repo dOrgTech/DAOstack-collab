@@ -21,7 +21,7 @@ This repo facilitates collaboration via issue and proposal tracking. Essentially
 
 All funding proposals must be submitted directly to the [Genesis DAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830). This repo is only intended to add convenience and reduce information asymmetries for builders in the DAOstack ecosystem.
 
-We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in your proposal. See a [template](https://github.com/dOrgTech/DAOstack-collab/blob/master/proposals/_template.md) here and an example proposal [here](TODO).
+We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in your proposal. See our [template](https://github.com/dOrgTech/DAOstack-collab/blob/master/proposals/_template.md) and [example proposal](TODO).
 
 If Genesis passes the proposal, then the PR will be merged. Over time, you can also add delivery materials and updates to the same document. This makes it easy to report back to the community on your progress.
 
