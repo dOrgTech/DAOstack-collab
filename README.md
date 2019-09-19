@@ -5,13 +5,13 @@ This is a public repository to help coordinate collaboration efforts with teams 
 DAOstack is an open platform for decentralized governance. To learn more, visit [DAOstack.io](https://daostack.io).
 
 ### About Genesis
-The Genesis DAO is a participatory funding vehicle for the DAOstack ecosystem. See it in action on the [web app](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830).
+Genesis is a grant giving DAO the DAOstack ecosystem. See it in action on the [web app](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830).
 
 ### About Us - dOrg
 dOrg is a coalition of web3 freelancers and dev shops. We serve the DAOstack ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
 
 # How to Use this Repo
-This repo facilitates collaboration via issue and proposal tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Anyone can suggest an idea by creating a new issue.
+This repo facilitates collaboration via issue and proposal tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Projects that were funded through proposals will appear in the proposals folder.
 
 - [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues): Find projects to work on or suggest projects for others. 
 - [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/tree/master/proposals): See passed proposals or add your own.
@@ -31,6 +31,7 @@ If Genesis DAO passes the proposal, then the PR will be merged. Over time, you c
 * [DAOstack Forum](https://daotalk.org)
 * [DAOstack Twitter](https://twitter.com/daostack)
 * [DAOstack Medium](https://medium.com/daostack)
+* [DAOstack Hacker's Kit](https://github.com/daostack/DAOstack-Hackers-Kit)
 * [Genesis DAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830)
 * [dOrg Website](https://dorg.tech)
 
