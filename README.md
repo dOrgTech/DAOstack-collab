@@ -8,7 +8,7 @@ DAOstack is an open platform for decentralized governance. To learn more, visit 
 The Genesis DAO coordinates funding and other DAOstack ecosystem resources. See it in action on the [Alchemy](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830).
 
 ### About Us - dOrg
-dOrg is a DAOstack-focused coalition of independent freelancers and dev shops. We serve the ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
+dOrg is a coalition of web3 freelancers and dev shops. We serve the DAOstack ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
 
 # How to Use this Repo
 This repo facilitates collaboration via issue tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Anyone can suggest an idea by creating a new issue.
