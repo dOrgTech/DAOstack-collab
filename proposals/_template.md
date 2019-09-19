@@ -2,7 +2,7 @@
 
 This application is (select one):
 - [ ] Speculative (use this by default)
-- [ ] an Issue response
+- [ ] an Issue response (link to the Issue)
 
 ## Abstract
 
