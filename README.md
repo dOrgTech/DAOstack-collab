@@ -1,11 +1,11 @@
 # DAOstack Collaboration
-This is a public repository to help coordinate collaboration efforts with teams working in the DAOstack ecosystem. The aim is to maintain a participatory roadmap that shows where the stack is headed, what needs to be done and who is doing what. This is also a forum place where teams can get on-boarded, connect with one another and share updates.
+This is a public repository to help coordinate collaboration across teams working in the DAOstack ecosystem. The aim is to maintain a participatory roadmap that shows where the stack is headed, what needs to be done and who is doing what. This is also a place where teams can get on-boarded, connect with one another and share updates.
 
 ### About DAOstack
 DAOstack is an open platform for decentralized governance. To learn more, visit [DAOstack.io](https://daostack.io).
 
 ### About Genesis
-Genesis is a grant giving DAO for the DAOstack ecosystem. See it in action on the [web app](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830).
+Genesis is a grant giving DAO for the DAOstack ecosystem. See it in action [here](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830).
 
 ### About Us - dOrg
 dOrg is a coalition of web3 freelancers and dev shops. We serve the DAOstack ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
