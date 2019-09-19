@@ -20,6 +20,12 @@ This repo facilitates collaboration via issue tracking. Essentially, the problem
 - [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/tree/master/proposals): See passed proposals or add your own through a PR.
 - [**Roadmap**](https://github.com/dOrgTech/DAOstack-collab/wiki): Learn about the broader direction the stack.
 
+## Submitting a Proposal
+
+All funding proposals must be submitted to the [Genesis DAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830) for consideration. This repo is only intended to add convenience and reduce information asymmetries for builders in the DAOstack ecosystem.
+
+We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in the proposal that you create on Alchemy.
+
 # Looking for further information?
 
 * [DAOstack Website](https://daostack.io)
