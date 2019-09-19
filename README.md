@@ -11,13 +11,13 @@ The Genesis DAO coordinates funding and other DAOstack ecosystem resources. See 
 dOrg is a DAOstack-focused coalition of independent freelancers and dev shops. We serve the ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
 
 # How to Use this Repo
-This repo facilitates collaboration via issue tracking. Essentially, the problems and ideas which we believe to be important will appear on the [issues](https://github.com/dOrgTech/DAOstack-collab/issues) page. Anyone can suggest an idea by creating a new issue.
+This repo facilitates collaboration via issue tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Anyone can suggest an idea by creating a new issue.
 
 - [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues) Find projects to work on or suggest projects for others to work on. Some important issue areas include:
     - Core technology
     - U.I.
     - Developer tooling
-- [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/proposals): See passed proposals or add your own through a PR.
+- [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/tree/master/proposals): See passed proposals or add your own through a PR.
 - [**Roadmap**](https://github.com/dOrgTech/DAOstack-collab/wiki): Learn about the broader direction the stack.
 
 # Looking for further information?
