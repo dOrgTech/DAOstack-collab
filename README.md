@@ -36,9 +36,9 @@ If Genesis passes the proposal, then the PR will be merged. Over time, you can a
 * [dOrg Website](https://dorg.tech)
 
 ## Real-time conversation
-We have Telegram channels for real-time discussions on DAOstack. Join the conversations.
-* [DAOstack R&D]()
-* [Genesis Community DAO]()
-* [dOrg Discord](https://discord.gg/6Kujmad)
+We have channels for real-time discussions on DAOstack. Join the conversations.
+* [DAOstack R&D - Telegram]()
+* [Genesis Community DAO - Telegram]()
+* [dOrg - Discord](https://discord.gg/6Kujmad)
 
 
