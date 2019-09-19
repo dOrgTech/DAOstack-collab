@@ -23,3 +23,7 @@ This application is (select one):
 ## About the Author
 
 [Description of the team's experience.]
+
+## Updates
+
+[As you work on the project, add updates and external links to delivery materials here]
