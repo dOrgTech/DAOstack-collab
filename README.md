@@ -1,5 +1,5 @@
 # DAOstack Collaboration
-This is a public repository to help coordinate collaboration efforts with teams working in the DAOstack ecosystem. The aim is to maintain a participatory roadmap that shows where the stack is headed, what needs to be done and who is doing what. This is a place where teams can get on-boarded & connect with one another, post funding proposals and share updates.
+This is a public repository to help coordinate collaboration efforts with teams working in the DAOstack ecosystem. The aim is to maintain a participatory roadmap that shows where the stack is headed, what needs to be done and who is doing what. This is also a forum place where teams can get on-boarded, connect with one another and share updates.
 
 ### About DAOstack
 DAOstack is an open platform for decentralized governance. To learn more, visit [DAOstack.io](https://daostack.io).
