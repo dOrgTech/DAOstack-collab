@@ -1,5 +1,5 @@
 # DAOstack Collaboration
-This is a public repository to help coordinate collaboration across teams working in the DAOstack ecosystem. The aim is to maintain a participatory roadmap that shows where the stack is headed, what needs to be done and who is doing what. This is also a place where teams can get on-boarded, connect with one another and share updates.
+This is a public repository to help coordinate collaboration across teams working in the DAOstack ecosystem. It serves as a  participatory roadmap that shows where the stack is headed, what needs to be done and who is doing what. It's also a place where teams can get on-boarded, connect with one another and share updates.
 
 ### About DAOstack
 DAOstack is an open platform for decentralized governance. To learn more, visit [DAOstack.io](https://daostack.io).
@@ -11,7 +11,7 @@ Genesis is a grant giving DAO for the DAOstack ecosystem. See it in action [here
 dOrg is a coalition of web3 freelancers and dev shops. We serve the DAOstack ecosystem as development catalysts. Learn more at [dOrg.tech](https://dOrg.tech).
 
 # How to Use this Repo
-This repo facilitates collaboration via issue and proposal tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Projects that were funded through proposals will appear in the proposals folder.
+This repo facilitates collaboration via issue and proposal tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Projects that were funded through Genesis proposals will appear in the proposals folder.
 
 - [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues): Find projects to work on or suggest projects for others. 
 - [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/tree/master/proposals): See passed proposals or add your own.
@@ -21,9 +21,9 @@ This repo facilitates collaboration via issue and proposal tracking. Essentially
 
 All funding proposals must be submitted directly to the [Genesis DAO](https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830). This repo is only intended to add convenience and reduce information asymmetries for builders in the DAOstack ecosystem.
 
-We recommend that you add your proposal details to this repo via Pull Request, then link to the PR in your proposal. See our [template](https://github.com/dOrgTech/DAOstack-collab/blob/master/proposals/_template.md) and [example proposal](TODO).
+We recommend that you add your proposal detail doc to this repo via Pull Request, then link to the PR in your proposal. See our [template](https://github.com/dOrgTech/DAOstack-collab/blob/master/proposals/_template.md) and [example proposal](TODO).
 
-If Genesis passes the proposal, then the PR will be merged. Over time, you can also add delivery materials and updates to the same document. This makes it easy to report back to the community on your progress.
+The PR will be merged if Genesis passes the proposal. You can also add updates and delivery materials to the proposal details doc. This makes it easy to report back to the community on your progress.
 
 # Looking for more?
 
