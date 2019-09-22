@@ -13,9 +13,9 @@ dOrg is a coalition of web3 freelancers and dev shops. We serve the DAOstack eco
 # How to Use this Repo
 This repo facilitates collaboration via issue and proposal tracking. Essentially, the problems and ideas which we believe to be important will appear on the Issues tab. Projects that were funded through Genesis proposals will appear in the proposals folder.
 
-- [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues): Find projects to work on or suggest projects for others. 
+- [**Issues**](https://github.com/dOrgTech/DAOstack-collab/issues): Find projects to work on or suggest new ones. 
 - [**Proposals**](https://github.com/dOrgTech/DAOstack-collab/tree/master/proposals): See passed proposals or add your own.
-- [**Roadmap**](https://github.com/dOrgTech/DAOstack-collab/wiki): Learn about the broader direction the stack.
+- [**Roadmap**](https://github.com/dOrgTech/DAOstack-collab/wiki): Learn about the broader direction of the stack.
 
 ## Adding a Proposal
 
